@@ -1,4 +1,4 @@
-# HSG-Programming-Introduction-Level
+# HSG: Programming: Introduction Level
 CCalendar - final project for the course 'Programming: Introduction Level' at the University of St. Gallen
 
 
